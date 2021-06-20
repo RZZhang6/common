@@ -1,4 +1,4 @@
-module github/RZZhang6/common
+module github.com/RZZhang6/common
 
 go 1.14
 
